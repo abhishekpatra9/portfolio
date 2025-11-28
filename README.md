@@ -148,7 +148,6 @@ npm run start
 ## Contact
 
 - **Email**: abhishekpata.dev9@gmail.com
-- **Phone**: +91 7894935341
 - **GitHub**: [github.com/abhisekpatra](https://github.com/abhishekpatra9)
 - **LinkedIn**: [linkedin.com/in/abhisekpatra](https://www.linkedin.com/in/abhishekpatra9/)
 
